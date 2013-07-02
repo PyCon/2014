@@ -1,6 +1,8 @@
 PyCon 2014
 ==========
 
+PyCon is the largest annual gathering for the community using and developing the open-source Python programming language.
+
 PyCon 2014 will be held in **Montreal**, Quebec, Canada from April 9 – 17, 2014.
 
 PyCon is organized and run by volunteers from the Python community.
